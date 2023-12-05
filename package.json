@@ -2,6 +2,7 @@
   "name": "vscodeextension-base",
   "displayName": "vscodeextension-base",
   "description": "Base code to create a barebones extension.",
+  "publisher": "everyonesoftware",
   "license": "ISC",
   "repository": {
     "type": "git",
